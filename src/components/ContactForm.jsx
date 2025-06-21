@@ -53,7 +53,7 @@ const ContactForm = () => {
         {/* Image Section */}
         <div className="contact-image-container">
           <img
-            src="/images/Contact.jpg"
+            src="images/Contact.jpg"
             alt="Contact Us"
             className="rounded-lg shadow-lg contact-image"
           />

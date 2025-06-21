@@ -2,10 +2,10 @@ import React, { useEffect, useState } from 'react';
 import '../styles/HeroSection.css'; // Adjust the path as necessary
 
 const devOpsImages = [
-  '/images/1.jpg',
-  '/images/2.jpg',
-  '/images/3.jpg',
-  '/images/4.jpg',
+  'images/1.jpg',
+  'images/2.jpg',
+  'images/3.jpg',
+  'images/4.jpg',
 ];
 
 const HeroSection = () => {

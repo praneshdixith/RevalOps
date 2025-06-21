@@ -25,7 +25,7 @@ const AboutUs = () => {
         {/* Image Content */}
         <div className="image-content flex-grow-1">
           <img
-            src="/images/logo.png"
+            src="images/logo.png"
             alt="About Us"
             className="rounded-lg shadow-lg img-fluid"
           />
